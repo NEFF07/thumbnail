@@ -1,0 +1,20 @@
+.container{
+  display:inline-block;
+  margin: 30px;
+  padding: 25px 15px;
+  border: 2px solid gray;
+}
+.thumbnail{
+  border: 2px solid lightgray;
+  width: 150px;
+  height: 150px;
+}
+#hyrule-castle{
+  background-position: 28% 35%;
+}
+#goron-city{
+  background-position: 60% 23%
+}
+#shrine{
+  background-position: 71% 50%;
+}
